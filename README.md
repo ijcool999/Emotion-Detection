@@ -20,10 +20,9 @@ Tech Stack
 	•	TensorFlow/Keras: For building and training the CNN model.
 	•	OpenCV: For real-time video processing and face detection.
 	•	Flask: For backend integration and deployment.
-	•	Tools:
 	•	Jupyter Notebook: For experimentation and model development.
 	•	MongoDB (optional): For storing user data or logs if required.
-	•	Dataset: Publicly available facial expression datasets such as FER-2013 or CK+.
+ 	•	Dataset: Facial Emotion Recognition (FER) Dataset on Kaggle.
 
  Prerequisites
 
